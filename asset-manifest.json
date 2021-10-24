@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://omaralezzi.github.io/csb-8d7qw/static/css/main.a617e044.chunk.css",
+    "main.js": "https://omaralezzi.github.io/csb-8d7qw/static/js/main.843a9b6e.chunk.js",
+    "main.js.map": "https://omaralezzi.github.io/csb-8d7qw/static/js/main.843a9b6e.chunk.js.map",
+    "runtime-main.js": "https://omaralezzi.github.io/csb-8d7qw/static/js/runtime-main.93be9b2f.js",
+    "runtime-main.js.map": "https://omaralezzi.github.io/csb-8d7qw/static/js/runtime-main.93be9b2f.js.map",
+    "static/css/2.0a9ec390.chunk.css": "https://omaralezzi.github.io/csb-8d7qw/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.cd183941.chunk.js": "https://omaralezzi.github.io/csb-8d7qw/static/js/2.cd183941.chunk.js",
+    "static/js/2.cd183941.chunk.js.map": "https://omaralezzi.github.io/csb-8d7qw/static/js/2.cd183941.chunk.js.map",
+    "static/js/3.11376b57.chunk.js": "https://omaralezzi.github.io/csb-8d7qw/static/js/3.11376b57.chunk.js",
+    "static/js/3.11376b57.chunk.js.map": "https://omaralezzi.github.io/csb-8d7qw/static/js/3.11376b57.chunk.js.map",
+    "index.html": "https://omaralezzi.github.io/csb-8d7qw/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "https://omaralezzi.github.io/csb-8d7qw/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "https://omaralezzi.github.io/csb-8d7qw/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.cd183941.chunk.js.LICENSE.txt": "https://omaralezzi.github.io/csb-8d7qw/static/js/2.cd183941.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93be9b2f.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.cd183941.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.843a9b6e.chunk.js"
+  ]
+}
